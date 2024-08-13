@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Data Structures and Algorithms Girls<br>👯 I’m looking to collaborate on DSA<br>🤝 I’m looking for help with dsa<br>🌱 I’m currently learning dsa<br>💬 Ask me about dsa<br>⚡ Fun fact I Don't know DSA
+🔭 I’m currently working on Data Structures and Algorithms <br>👯 I’m looking to collaborate on DSA<br>🤝 I’m looking for help with dsa<br>🌱 I’m currently learning dsa<br>💬 Ask me about dsa<br>⚡ Fun fact I Don't know DSA
 
 
 # 💻 Tech Stack:
